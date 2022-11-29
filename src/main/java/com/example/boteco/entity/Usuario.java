@@ -1,6 +1,4 @@
-package com.example.boteco;
-
-import org.hibernate.type.StringNVarcharType;
+package com.example.boteco.entity;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

@@ -1,4 +1,4 @@
-package com.example.boteco;
+package com.example.boteco.entity;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
